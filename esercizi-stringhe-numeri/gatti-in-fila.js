@@ -17,3 +17,10 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+var gatti;
+var gattiPerFila;
+
+var file = Math.ceil(gatti/gattiPerFila)
+var gattiMancanti = file*gattiPerFila-gatti;
